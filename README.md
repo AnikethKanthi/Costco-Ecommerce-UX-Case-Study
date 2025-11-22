@@ -68,11 +68,11 @@ causing unnecessary searching and lost intent.
 
 | Before (Costco) | After (Prototype) |
 | --- | --- |
-| ![Original homepage](./assets/before-home-desktop.png) | ![Redesigned homepage](./assets/after-home-desktop.png) |
+| ![Original homepage](./before-home-desktop.png) | ![Redesigned homepage](./after-home-desktop.png) |
 
 | Before (Costco Travel page) | After (Prototype) |
 | --- | --- |
-| ![Original homepage](./assets/before-costcotravel-page.png) | ![Redesigned homepage](./assets/after-costcotravel-page.png) |
+| ![Original homepage](./before-costcotravel-page.png) | ![Redesigned homepage](./after-costcotravel-page.png) |
 
 ## Evaluation – Cognitive Walkthroughs & Interviews
 
