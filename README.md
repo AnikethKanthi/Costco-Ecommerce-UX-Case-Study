@@ -90,7 +90,7 @@ I tested the medium-fidelity prototypes with participants familiar with online s
 - Mobile readability needed better scaling (font size, contrast), especially on smaller screens.
 - Wishlist tooltips and guidance for first-time users were still weak and needed more explicit feedback.
 
-> Full evaluation details and cognitive walkthrough tables are in `/docs/costco-final-report.pdf`.
+> Full evaluation details and cognitive walkthrough tables are in `/costco-final-report.pdf`.
 
 ## Recommendations
 
@@ -108,4 +108,4 @@ I tested the medium-fidelity prototypes with participants familiar with online s
 - Prototype multiple variants of tricky flows in parallel and A/B test them in user sessions.
 
 For more detailed heuristic evaluations, UARs, and cognitive walkthrough tables, see the
-[full HCI report](./docs/costco-final-report.pdf).
+[full HCI report](./costco-final-report.pdf).
